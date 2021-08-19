@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+
+    <string name="define_character">Define character</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+
+    <string-array name="description_of_character">
+        <item>Having red as your favorite color identifies you as extroverted and optimistic, courageous and confident. You are action oriented and physically active - sex is a necessity to you - you have strong survival instincts.</item>
+        <item>Those with Orange color personality strengths tend to be witty, spontaneous, generous, optimistic, eager and bold. They need fun, variety, stimulation and excitement. Freedom to act is also important to an Orange. Oranges have energy and like to bounce around to different projects or tasks.</item>
+        <item>Yellow. The last of the main warm colors, yellow is a bright, creative color. Known for its ability to promote clear thinking and quick decision making, yellow is probably most associated with happiness, positive energy and sunshine.</item>
+        <item>Those with Green color personality strengths tend to be perfectionist, analytical, conceptual, cool, calm, inventive and logical. They seek knowledge and understanding as well as always looking for explanations and answers. Greens can be good researchers – looking for facts and asking lots of questions.</item>
+        <item>Those with Blue color personality strengths tend to be enthusiastic, sympathetic, communicative, compassionate, idealistic, sincere and imaginative. They care and want to contribute to everything they are a part of. Relationships are important to blues.</item>
+    </string-array>
+</resources>
